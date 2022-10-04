@@ -13,7 +13,7 @@ Power the LED light strip directly from Automation 2040 W
 
 ### main_relay.py
 
-Control the lights using Relay 3 to swicth the power supply (Max 40V 2A)
+Control the lights using Relay 3 to switch the power supply (Max 40V 2A)
 
 ### main_relay_pushover.py
 
